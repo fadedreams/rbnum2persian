@@ -1,4 +1,4 @@
-### rbnum2persian
+## rbnum2persian
 
 A Ruby gem for converting numbers to Persian text, handling both cardinal and ordinal numbers.
 
